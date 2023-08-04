@@ -21,10 +21,12 @@
     text-align: center;
 }
 .seccionLibros{
-    margin: 10px;
+    background-color: red;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    justify-content: center;
+    
 }
 .seccionLibros h2{
     width: 100%;
